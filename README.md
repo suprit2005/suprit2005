@@ -3,16 +3,11 @@ Software Engineer passionate about Machine Learning, AI, Big Data, and scalable 
 
 
 ## Socials:
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://www.linkedin.com/in/suprit-mahajan-520077298/)
 [![X](https://img.shields.io/badge/X-0a0a0f?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/suprit_mahajan)
 [![Quora](https://img.shields.io/badge/Quora-0a0a0f?style=for-the-badge&logo=quora&logoColor=B92B27)](https://www.quora.com/profile/Suprit-Mahajan)
 [![Gmail](https://img.shields.io/badge/Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:supritmahajan@gmail.com)
 
-</div>
-
----
 
 ## Tech Stack:
 **`[ Languages ]`**
