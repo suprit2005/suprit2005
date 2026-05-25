@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> About Me
 
 ```yaml
 Name: Suprit Mahajan
@@ -18,14 +18,14 @@ Learning: Cloud • System Design • Scalable Architectures
 </div>
 
 
-## Socials:
+## ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Handshake.png" width="28" /> Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://www.linkedin.com/in/suprit-mahajan-520077298/)
 [![X](https://img.shields.io/badge/X-0a0a0f?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/suprit_mahajan)
 [![Quora](https://img.shields.io/badge/Quora-0a0a0f?style=for-the-badge&logo=quora&logoColor=B92B27)](https://www.quora.com/profile/Suprit-Mahajan)
 [![Gmail](https://img.shields.io/badge/Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:supritmahajan@gmail.com)
 
 
-## Tech Stack:
+## ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" /> Tech Stack
 **`[ Languages ]`**
 
 ![C](https://img.shields.io/badge/C-0a0a0f?style=flat-square&logo=c&logoColor=60a5fa)
@@ -70,7 +70,7 @@ Learning: Cloud • System Design • Scalable Architectures
 ![Supabase](https://img.shields.io/badge/Supabase-0a0a0f?style=flat-square&logo=supabase&logoColor=f87171)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0a0a0f?style=flat-square&logo=microsoft-sql-server&logoColor=f87171)
 
-## <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="24"> GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Analytics
 
 <div align="center">
 
