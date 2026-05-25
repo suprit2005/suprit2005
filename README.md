@@ -1,11 +1,11 @@
-# 💫 About Me:
-🚀 Software Engineer passionate about Machine Learning, AI, Big Data, and scalable application development.  <br>💻 Skilled in C++, Java, Python, Docker, Hadoop, and modern web technologies.  <br>🧠 Experienced in building real-world ML and full-stack projects with a focus on problem-solving and system design.  <br>☁️ Strong interest in backend engineering, cloud technologies, and intelligent systems.  <br>📈 Continuously learning and exploring innovative solutions to real-world challenges.
+##  About Me:
+Software Engineer passionate about Machine Learning, AI, Big Data, and scalable application development.  <br>💻 Skilled in C++, Java, Python, Docker, Hadoop, and modern web technologies.  <br>🧠 Experienced in building real-world ML and full-stack projects with a focus on problem-solving and system design.  <br>☁️ Strong interest in backend engineering, cloud technologies, and intelligent systems.  <br>📈 Continuously learning and exploring innovative solutions to real-world challenges.
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suprit-mahajan-520077298/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Suprit-Mahajan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/suprit_mahajan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supritmahajan@gmail.com) 
 
-# 💻 Tech Stack:
+## Tech Stack:
 **`[ Languages ]`**
 
 ![C](https://img.shields.io/badge/C-0a0a0f?style=flat-square&logo=c&logoColor=60a5fa)
@@ -51,7 +51,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0a0a0f?style=flat-square&logo=microsoft-sql-server&logoColor=f87171)
 
 ---
-# 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=suprit2005&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=suprit2005&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=suprit2005&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
