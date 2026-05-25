@@ -1,15 +1,118 @@
-# 💫 About Me:
-🚀 Software Engineer passionate about Machine Learning, AI, Big Data, and scalable application development.  <br>💻 Skilled in C++, Java, Python, Docker, Hadoop, and modern web technologies.  <br>🧠 Experienced in building real-world ML and full-stack projects with a focus on problem-solving and system design.  <br>☁️ Strong interest in backend engineering, cloud technologies, and intelligent systems.  <br>📈 Continuously learning and exploring innovative solutions to real-world challenges.
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=28&pause=1200&color=1a1a1a&center=true&vCenter=true&width=600&lines=Suprit+Mahajan;Software+Engineer;ML+%C2%B7+Big+Data+%C2%B7+Full-Stack+Systems" alt="Suprit Mahajan" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suprit-mahajan-520077298/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Suprit-Mahajan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/suprit_mahajan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supritmahajan@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=suprit2005&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=suprit2005&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=suprit2005&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=suprit2005&style=flat-square&color=9e9589&label=profile+views)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+---
+
+### `about_me`
+
+```yaml
+name     : Suprit Mahajan
+role     : Software Engineer
+focus    : Machine Learning · Big Data · Scalable Systems
+stack    : C++ · Java · Python · JavaScript
+cloud    : AWS · GCP · Hadoop · Docker
+contact  : supritmahajan@gmail.com
+```
+
+I build **scalable, intelligent systems** at the intersection of backend engineering and applied ML.
+Experienced with distributed data pipelines, cloud infrastructure, and production-grade full-stack applications.
+Focused on **system design** that solves real problems.
+
+<br/>
+
+**Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/suprit-mahajan-520077298/)
+[![X](https://img.shields.io/badge/X-1a1a1a?style=flat-square&logo=x&logoColor=ffffff)](https://x.com/suprit_mahajan)
+[![Quora](https://img.shields.io/badge/Quora-1a1a1a?style=flat-square&logo=quora&logoColor=ffffff)](https://www.quora.com/profile/Suprit-Mahajan)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1a1a?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:supritmahajan@gmail.com)
+
+---
+
+### `tech_stack`
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-f4f1ec?style=flat-square&logo=c&logoColor=3a3530)
+![C++](https://img.shields.io/badge/C++-f4f1ec?style=flat-square&logo=cplusplus&logoColor=3a3530)
+![Java](https://img.shields.io/badge/Java-f4f1ec?style=flat-square&logo=openjdk&logoColor=3a3530)
+![Python](https://img.shields.io/badge/Python-f4f1ec?style=flat-square&logo=python&logoColor=3a3530)
+![JavaScript](https://img.shields.io/badge/JavaScript-f4f1ec?style=flat-square&logo=javascript&logoColor=3a3530)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-f0f4f0?style=flat-square&logo=amazon-aws&logoColor=2a4a2a)
+![GCP](https://img.shields.io/badge/GCP-f0f4f0?style=flat-square&logo=google-cloud&logoColor=2a4a2a)
+![Firebase](https://img.shields.io/badge/Firebase-f0f4f0?style=flat-square&logo=firebase&logoColor=2a4a2a)
+![Docker](https://img.shields.io/badge/Docker-f0f4f0?style=flat-square&logo=docker&logoColor=2a4a2a)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-f0f4f0?style=flat-square&logo=apachehadoop&logoColor=2a4a2a)
+![Apache Hive](https://img.shields.io/badge/Hive-f0f4f0?style=flat-square&logo=apachehive&logoColor=2a4a2a)
+![Jenkins](https://img.shields.io/badge/Jenkins-f0f4f0?style=flat-square&logo=jenkins&logoColor=2a4a2a)
+![Vercel](https://img.shields.io/badge/Vercel-f0f4f0?style=flat-square&logo=vercel&logoColor=2a4a2a)
+![Netlify](https://img.shields.io/badge/Netlify-f0f4f0?style=flat-square&logo=netlify&logoColor=2a4a2a)
+
+**ML & Data Science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-f2f0f6?style=flat-square&logo=pytorch&logoColor=352848)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-f2f0f6?style=flat-square&logo=tensorflow&logoColor=352848)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-f2f0f6?style=flat-square&logo=scikit-learn&logoColor=352848)
+![NumPy](https://img.shields.io/badge/NumPy-f2f0f6?style=flat-square&logo=numpy&logoColor=352848)
+![Pandas](https://img.shields.io/badge/Pandas-f2f0f6?style=flat-square&logo=pandas&logoColor=352848)
+![Plotly](https://img.shields.io/badge/Plotly-f2f0f6?style=flat-square&logo=plotly&logoColor=352848)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-f2f0f6?style=flat-square&logo=matplotlib&logoColor=352848)
+![SciPy](https://img.shields.io/badge/SciPy-f2f0f6?style=flat-square&logo=scipy&logoColor=352848)
+
+**Web & Frameworks**
+
+![React](https://img.shields.io/badge/React-f6f3ee?style=flat-square&logo=react&logoColor=4a3820)
+![Next.js](https://img.shields.io/badge/Next.js-f6f3ee?style=flat-square&logo=next.js&logoColor=4a3820)
+![Django](https://img.shields.io/badge/Django-f6f3ee?style=flat-square&logo=django&logoColor=4a3820)
+![Django REST](https://img.shields.io/badge/Django_REST-f6f3ee?style=flat-square&logo=django&logoColor=4a3820)
+![Flask](https://img.shields.io/badge/Flask-f6f3ee?style=flat-square&logo=flask&logoColor=4a3820)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-f6f3ee?style=flat-square&logo=tailwind-css&logoColor=4a3820)
+![Streamlit](https://img.shields.io/badge/Streamlit-f6f3ee?style=flat-square&logo=streamlit&logoColor=4a3820)
+![Vite](https://img.shields.io/badge/Vite-f6f3ee?style=flat-square&logo=vite&logoColor=4a3820)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-f4f0f0?style=flat-square&logo=mysql&logoColor=4a2828)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f4f0f0?style=flat-square&logo=postgresql&logoColor=4a2828)
+![Supabase](https://img.shields.io/badge/Supabase-f4f0f0?style=flat-square&logo=supabase&logoColor=4a2828)
+![SQL Server](https://img.shields.io/badge/SQL_Server-f4f0f0?style=flat-square&logo=microsoft-sql-server&logoColor=4a2828)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-f5f5f5?style=flat-square&logo=git&logoColor=404040)
+![GitHub](https://img.shields.io/badge/GitHub-f5f5f5?style=flat-square&logo=github&logoColor=404040)
+![Apache](https://img.shields.io/badge/Apache-f5f5f5?style=flat-square&logo=apache&logoColor=404040)
+
+---
+
+### `github_activity`
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.shion.dev/api?username=suprit2005&theme=default&hide_border=true&include_all_commits=false&count_private=false&bg_color=ffffff&title_color=1a1a1a&text_color=6b6358&icon_color=9e9589" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.shion.dev/api/top-langs/?username=suprit2005&theme=default&hide_border=true&layout=compact&bg_color=ffffff&title_color=1a1a1a&text_color=6b6358" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=suprit2005&theme=default&hide_border=true&background=ffffff&stroke=e8e3dc&ring=1a1a1a&fire=6b6358&currStreakLabel=1a1a1a&sideLabels=9e9589&dates=b5aea5" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>continuously learning · always building</sub>
+</div>
