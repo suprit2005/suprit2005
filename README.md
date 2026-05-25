@@ -3,7 +3,16 @@ Software Engineer passionate about Machine Learning, AI, Big Data, and scalable 
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suprit-mahajan-520077298/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Suprit-Mahajan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/suprit_mahajan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supritmahajan@gmail.com) 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://www.linkedin.com/in/suprit-mahajan-520077298/)
+[![X](https://img.shields.io/badge/X-0a0a0f?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/suprit_mahajan)
+[![Quora](https://img.shields.io/badge/Quora-0a0a0f?style=for-the-badge&logo=quora&logoColor=B92B27)](https://www.quora.com/profile/Suprit-Mahajan)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:supritmahajan@gmail.com)
+
+</div>
+
+---
 
 ## Tech Stack:
 **`[ Languages ]`**
