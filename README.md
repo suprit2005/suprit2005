@@ -1,6 +1,33 @@
-##  About Me:
-Software Engineer passionate about Machine Learning, AI, Big Data, and scalable application development.  <br>💻 Skilled in C++, Java, Python, Docker, Hadoop, and modern web technologies.  <br>🧠 Experienced in building real-world ML and full-stack projects with a focus on problem-solving and system design.  <br>☁️ Strong interest in backend engineering, cloud technologies, and intelligent systems.  <br>📈 Continuously learning and exploring innovative solutions to real-world challenges.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
+```yaml
+Name: Suprit Mahajan
+Role: Software Engineer & ML Enthusiast
+Focus: AI/ML • Big Data • Backend Systems
+Tech: C++ • Java • Python • Docker • Hadoop
+Learning: Cloud • System Design • Scalable Architectures
+```
+
+<div align="left">
+
+💻 Building real-world ML & Full-Stack applications  
+🧠 Passionate about problem-solving and intelligent systems  
+☁️ Exploring cloud technologies and scalable backend engineering  
+📈 Continuously learning and improving through projects and development  
+
+</div>
+
+## <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="24"> GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=suprit2005&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=suprit2005&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprit2005&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+
+</div>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://www.linkedin.com/in/suprit-mahajan-520077298/)
@@ -54,10 +81,28 @@ Software Engineer passionate about Machine Learning, AI, Big Data, and scalable 
 ![Supabase](https://img.shields.io/badge/Supabase-0a0a0f?style=flat-square&logo=supabase&logoColor=f87171)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0a0a0f?style=flat-square&logo=microsoft-sql-server&logoColor=f87171)
 
----
 ## GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=suprit2005&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=suprit2005&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=suprit2005&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="25"> GitHub Analytics
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=suprit2005&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=suprit2005&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+</div>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprit2005&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=suprit2005&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
+
+</div>
+
+
+
