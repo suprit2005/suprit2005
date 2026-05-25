@@ -17,17 +17,6 @@ Learning: Cloud • System Design • Scalable Architectures
 
 </div>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="24"> GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=suprit2005&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=suprit2005&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprit2005&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-
-</div>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://www.linkedin.com/in/suprit-mahajan-520077298/)
@@ -81,8 +70,7 @@ Learning: Cloud • System Design • Scalable Architectures
 ![Supabase](https://img.shields.io/badge/Supabase-0a0a0f?style=flat-square&logo=supabase&logoColor=f87171)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0a0a0f?style=flat-square&logo=microsoft-sql-server&logoColor=f87171)
 
-## GitHub Stats:
-## <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="25"> GitHub Analytics
+## <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="24"> GitHub Analytics
 
 <div align="center">
 
